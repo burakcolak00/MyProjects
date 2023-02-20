@@ -1,0 +1,14 @@
+C:\Users\Burak\source\repos\11 22 33\11 22 33\bin\Debug\netcoreapp3.1\11 22 33.exe
+C:\Users\Burak\source\repos\11 22 33\11 22 33\bin\Debug\netcoreapp3.1\11 22 33.deps.json
+C:\Users\Burak\source\repos\11 22 33\11 22 33\bin\Debug\netcoreapp3.1\11 22 33.runtimeconfig.json
+C:\Users\Burak\source\repos\11 22 33\11 22 33\bin\Debug\netcoreapp3.1\11 22 33.runtimeconfig.dev.json
+C:\Users\Burak\source\repos\11 22 33\11 22 33\bin\Debug\netcoreapp3.1\11 22 33.dll
+C:\Users\Burak\source\repos\11 22 33\11 22 33\bin\Debug\netcoreapp3.1\11 22 33.pdb
+C:\Users\Burak\source\repos\11 22 33\11 22 33\obj\Debug\netcoreapp3.1\11 22 33.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\11 22 33\11 22 33\obj\Debug\netcoreapp3.1\11 22 33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\source\repos\11 22 33\11 22 33\obj\Debug\netcoreapp3.1\11 22 33.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\11 22 33\11 22 33\obj\Debug\netcoreapp3.1\11 22 33.AssemblyInfo.cs
+C:\Users\Burak\source\repos\11 22 33\11 22 33\obj\Debug\netcoreapp3.1\11 22 33.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\11 22 33\11 22 33\obj\Debug\netcoreapp3.1\11 22 33.dll
+C:\Users\Burak\source\repos\11 22 33\11 22 33\obj\Debug\netcoreapp3.1\11 22 33.pdb
+C:\Users\Burak\source\repos\11 22 33\11 22 33\obj\Debug\netcoreapp3.1\11 22 33.genruntimeconfig.cache

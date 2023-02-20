@@ -1,0 +1,14 @@
+C:\Users\Burak\source\repos\Calendar\Calendar\bin\Debug\netcoreapp3.1\Calendar.exe
+C:\Users\Burak\source\repos\Calendar\Calendar\bin\Debug\netcoreapp3.1\Calendar.deps.json
+C:\Users\Burak\source\repos\Calendar\Calendar\bin\Debug\netcoreapp3.1\Calendar.runtimeconfig.json
+C:\Users\Burak\source\repos\Calendar\Calendar\bin\Debug\netcoreapp3.1\Calendar.runtimeconfig.dev.json
+C:\Users\Burak\source\repos\Calendar\Calendar\bin\Debug\netcoreapp3.1\Calendar.dll
+C:\Users\Burak\source\repos\Calendar\Calendar\bin\Debug\netcoreapp3.1\Calendar.pdb
+C:\Users\Burak\source\repos\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\source\repos\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.AssemblyInfo.cs
+C:\Users\Burak\source\repos\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.dll
+C:\Users\Burak\source\repos\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.pdb
+C:\Users\Burak\source\repos\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.genruntimeconfig.cache

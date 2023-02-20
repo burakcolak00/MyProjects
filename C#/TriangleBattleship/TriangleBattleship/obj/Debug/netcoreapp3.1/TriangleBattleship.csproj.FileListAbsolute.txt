@@ -1,0 +1,14 @@
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\bin\Debug\netcoreapp3.1\TriangleBattleship.exe
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\bin\Debug\netcoreapp3.1\TriangleBattleship.deps.json
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\bin\Debug\netcoreapp3.1\TriangleBattleship.runtimeconfig.json
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\bin\Debug\netcoreapp3.1\TriangleBattleship.runtimeconfig.dev.json
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\bin\Debug\netcoreapp3.1\TriangleBattleship.dll
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\bin\Debug\netcoreapp3.1\TriangleBattleship.pdb
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\obj\Debug\netcoreapp3.1\TriangleBattleship.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\obj\Debug\netcoreapp3.1\TriangleBattleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\obj\Debug\netcoreapp3.1\TriangleBattleship.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\obj\Debug\netcoreapp3.1\TriangleBattleship.AssemblyInfo.cs
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\obj\Debug\netcoreapp3.1\TriangleBattleship.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\obj\Debug\netcoreapp3.1\TriangleBattleship.dll
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\obj\Debug\netcoreapp3.1\TriangleBattleship.pdb
+C:\Users\Burak\source\repos\TriangleBattleship\TriangleBattleship\obj\Debug\netcoreapp3.1\TriangleBattleship.genruntimeconfig.cache

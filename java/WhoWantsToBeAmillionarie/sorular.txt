@@ -1,0 +1,5 @@
+English#Professionals ___ teachers and lawyers should have good communication skills..#Such like#Such as#As#Like#B#2
+Computer#The first part of a machine language instruction that specifies the operation to be performed is called a(n)___.#Opcode#Operand#Register#Bus#A#3
+Mathematics#A(n) octagon has a total of ___ diagonals.#17#18#19#20#D#2
+Physics#The number .00005600 has ___ sig figs.#4#8#9#2#A#1
+History#Socrates was sentenced to death for ___ .#Stealing#Homicide#Corrupting Athenian youth#Fraud#C#3
